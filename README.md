@@ -5,7 +5,6 @@ Bumblebee Colour Tags is a simple, interactive Jupyter Notebook-based toolkit fo
 
 ## Table of Contents  
 - [Features](#features)  
-- [Demo / Screenshots](#demo-screenshots)  
 - [Getting Started](#getting-started)  
 
 ## Features  
@@ -27,5 +26,6 @@ Bumblebee Colour Tags is a simple, interactive Jupyter Notebook-based toolkit fo
 git clone https://github.com/thecliffes/bumblebee-colour-tags-main.git  
 cd bumblebee-colour-tags-main  
 pip install -r requirements.txt  
+
 
 
